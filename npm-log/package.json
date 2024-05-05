@@ -1,16 +1,20 @@
 {
-  "name": "notification-logger",
+  "name": "logger-notifier",
   "version": "1.0.0",
-  "description": "notification-logger - because sometimes even your code needs a little nudge to get noticed! This npm package makes logging messages to the console more exciting by also sending notifications. Debugging has never been this much fun!",
+  "description": "Logger Notifier - because sometimes even your code needs a little nudge to get noticed! This npm package makes logging messages to the console more exciting by also sending notifications. Debugging has never been this much fun!",
   "main": "index.js",
   "homepage": "",
   "repository": {
-    "url": "https://github.com/rahulsainlll/notification-logger"
+    "url": "https://github.com/rahulsainlll/logger-notifier"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["notification", "logger"],
+  "keywords": [
+    "notification",
+    "logger",
+    "Notifier"
+  ],
   "author": "Rahul Sain",
   "license": "MIT"
 }
