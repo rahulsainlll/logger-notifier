@@ -1,4 +1,4 @@
-# Logger-Notifier
+# Logger-Notifier (Soon)
 
 Logger-Notifier is a simple npm package that provides a convenient way to log messages to the console and display notifications. It enhances the traditional logging experience by also sending notifications to users, ensuring that important messages are not missed.
 
